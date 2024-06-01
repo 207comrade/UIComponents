@@ -3,6 +3,12 @@
 ## Youtube Channel -
 https://www.youtube.com/@comradecoder
 
+## What you will get - 
+
+1) ### Sticky Footer ( branch -> sticky-footer ) 
+   How to create a responsive Navbar using only HTML and CSS
+https://youtu.be/ohS2DWkcxGs
+
 
 ## Feedback
 
